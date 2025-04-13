@@ -1,1 +1,1 @@
-While performing the kaggle competition or some eda it is better advisable to preprocess the both test and train data 
+This repository contains a practice project focused on Exploratory Data Analysis (EDA).
